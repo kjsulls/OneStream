@@ -9,7 +9,7 @@ Now you can click Start to begin testing.
 
 The FrontendWebApi browser will launch a swagger page by default (https://localhost:7037/swagger/index.html)
 
-There are two Movies verb exposed, GET | POST
+There are two verbs exposed for FrontendWebAPI Movies Controller, GET | POST
 
 GET -> Try out and execute.  There are default movies defined in BackendWebApi2 and BackendWebApi3. 
 
