@@ -5,6 +5,8 @@ Before running the application you'll need to configure startup projects in Visu
 - For each project (FrontendWebApi, BackendWebApi2, BackendWebApi3) action, choose Start
 - Click Apply then OK
 
+Choose FrontendWebApi as the startup project.
+
 Now you can click Start to begin testing.
 
 The FrontendWebApi browser will launch a swagger page by default (https://localhost:7037/swagger/index.html)
